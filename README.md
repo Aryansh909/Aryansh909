@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0E2A4A,100:1E40AF&height=220&section=header&text=Aryan%20Sharma&fontSize=62&fontColor=E6EDF3&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Computer%20Vision%20%7C%20Predictive%20Analytics%20%7C%20Generative%20AI&descSize=16&descAlignY=62&descColor=93C5FD)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:003399,100:0077FF&height=220&section=header&text=Aryan%20Sharma&fontSize=62&fontColor=E6EDF3&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Computer%20Vision%20%7C%20Predictive%20Analytics%20%7C%20Generative%20AI&descSize=16&descAlignY=62&descColor=38BDF8)
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+and+Machine+Learning+Engineer;Computer+Vision+%E2%80%A2+Deep+Learning;Predictive+Analytics;Backend+Engineering;RAG+%26+Local+LLM+Systems)](https://github.com/Aryansh909)
@@ -167,4 +167,4 @@ An ensemble ML system forecasting project budget overruns and timeline delays. T
 
 <p align="center"><sub>Open to AI/ML Engineering opportunities &nbsp;·&nbsp; <a href="mailto:sendtoaryansharma@gmail.com">sendtoaryansharma@gmail.com</a></sub></p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0E2A4A,100:1E40AF&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:003399,100:0077FF&height=120&section=footer)
