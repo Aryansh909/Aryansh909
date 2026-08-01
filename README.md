@@ -133,7 +133,7 @@ An ensemble ML system forecasting project budget overruns and timeline delays. T
 
 **Program Executive** &nbsp;·&nbsp; Udbhav Vision Foundation &nbsp;·&nbsp; `Aug 2023 – Jul 2024`
 
-- Managed backend operations for [DOLBI](https://play.google.com/store/apps/details?id=org.udbhavvision.dolbi), a live digital literacy platform for visually impaired students
+- Managed backend operations for [DOLBI](https://play.google.com/store/apps/details?id=com.udbhavfoundation.digitallibrary&hl=en), a live digital literacy platform for visually impaired students
 - Engineered 50+ screen-reader-compatible e-books and audiobooks for institutional deployment
 - Coordinated content workflows and onboarding across CSR partner organisations
 
