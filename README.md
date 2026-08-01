@@ -1,12 +1,15 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:0E2A4A,100:0D1117&height=220&section=header&text=Aryan%20Sharma&fontSize=62&fontColor=E6EDF3&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Computer%20Vision%20%7C%20Predictive%20Analytics%20%7C%20Generative%20AI&descSize=16&descAlignY=62&descColor=7EA8BE)
+
 <div align="center">
 
-# Aryan Sharma
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=540&lines=AI+%2F+ML+Engineer;Computer+Vision+Engineer;Predictive+Analytics+Engineer;Python+%26+Deep+Learning+Engineer;Generative+AI+Engineer)](https://github.com/Aryansh909)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=540&lines=AI+%2F+ML+Engineer;Computer+Vision+Engineer;Predictive+Analytics+Engineer;Python+%26+Deep+Learning+Engineer;Generative+AI+Engineer)](https://github.com/Aryansh909)
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aryansharma72-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryansharma72)&nbsp;
 [![Email](https://img.shields.io/badge/Email-sendtoaryansharma%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sendtoaryansharma@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Aryansh909-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aryansh909)
+[![GitHub](https://img.shields.io/badge/GitHub-Aryansh909-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aryansh909)&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=Aryansh909&style=flat-square&color=58A6FF&label=Profile+Views)
 
 <sub>📍 Jaipur, India &nbsp;·&nbsp; MCA in AI & ML — JECRC University</sub>
 
@@ -110,7 +113,7 @@ An ensemble ML system forecasting project budget overruns and timeline delays. T
 
 <br>
 
-## Experience
+## 💼 Experience
 
 **Machine Learning Intern** &nbsp;·&nbsp; KvonTech Consultancy Services &nbsp;·&nbsp; `Feb 2026 – Jun 2026`
 
@@ -122,7 +125,7 @@ Managed backend operations for [DOLBI](https://play.google.com/store/apps/detail
 
 <br>
 
-## Recognition
+## 🏆 Recognition
 
 | Award | Year |
 |:--|:--|
@@ -133,33 +136,17 @@ Managed backend operations for [DOLBI](https://play.google.com/store/apps/detail
 
 <br>
 
-## Certifications
-
-<table>
-<tr>
-<td>
+## 📜 Certifications
 
 - Neural Networks and Deep Learning &nbsp;·&nbsp; *Samatrix.io* &nbsp;`2026`
 - Machine Learning and Pattern Recognition &nbsp;·&nbsp; *Samatrix.io* &nbsp;`2025`
 - Probabilistic Modeling and Reasoning with Python &nbsp;·&nbsp; *Samatrix.io* &nbsp;`2025`
-
-</td>
-<td>
-
 - R Programming for Data Science and Analytics &nbsp;·&nbsp; *Samatrix.io* &nbsp;`2024`
 - RDBMS & Software Engineering &nbsp;·&nbsp; *Infosys Springboard* &nbsp;`2024`
-
-</td>
-</tr>
-</table>
 
 <br>
 
 <div align="center">
-
----
-
-### Connect
 
 <a href="https://linkedin.com/in/aryansharma72">
   <img src="https://img.shields.io/badge/LinkedIn-aryansharma72-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -174,3 +161,7 @@ Managed backend operations for [DOLBI](https://play.google.com/store/apps/detail
 </a>
 
 </div>
+
+<br>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:0E2A4A,100:0D1117&height=120&section=footer)
