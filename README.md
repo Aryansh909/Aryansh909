@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=540&lines=AI%2FML+Engineer;Computer+Vision+%E2%80%A2+Deep+Learning;Predictive+Analytics;Backend+Engineering;Open+Source)](https://github.com/Aryansh909)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=540&lines=AI%2FML+Engineer;Computer+Vision+%E2%80%A2+Deep+Learning;Predictive+Analytics;Backend+Engineering;RAG+%26+Local+LLM+Systems)](https://github.com/Aryansh909)
 
 <br>
 
@@ -12,7 +12,7 @@
 
 <br>
 
-[![skillicons](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,postman,docker,git,linux,postgres,vscode,gcp,github&perline=12)](https://github.com/Aryansh909)
+[![skillicons](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,postman,docker,git,linux,postgres,vscode,gcp,github&perline=6)](https://github.com/Aryansh909)
 
 <br>
 
@@ -26,7 +26,7 @@
 
 AI/ML graduate with hands-on experience shipping computer vision and predictive analytics systems — from model training to REST API deployment.
 
-🛡️ Real-time CV Proctoring &nbsp;&nbsp;·&nbsp;&nbsp; 🌿 Crop Disease Detection &nbsp;&nbsp;·&nbsp;&nbsp; 📈 Ensemble Risk Prediction &nbsp;&nbsp;·&nbsp;&nbsp; ⚙️ Backend Engineering & REST APIs
+🛡️ Real-time CV Proctoring &nbsp;&nbsp;·&nbsp;&nbsp; 🌿 Crop Disease Detection &nbsp;&nbsp;·&nbsp;&nbsp; 📈 Ensemble Risk Prediction &nbsp;&nbsp;·&nbsp;&nbsp; 🧠 RAG · Ollama · Generative AI
 
 </div>
 
@@ -63,7 +63,7 @@ An ensemble ML system forecasting project budget overruns and timeline delays. T
 
 ## 🛠️ Tech Stack
 
-<p align="center"><b>Languages</b></p>
+<p align="center"><b>🐍 Languages</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
@@ -71,7 +71,7 @@ An ensemble ML system forecasting project budget overruns and timeline delays. T
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
 </p>
 
-<p align="center"><b>Machine Learning & AI</b></p>
+<p align="center"><b>🤖 Machine Learning & AI</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
@@ -81,7 +81,7 @@ An ensemble ML system forecasting project budget overruns and timeline delays. T
   <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black">
 </p>
 
-<p align="center"><b>Computer Vision</b></p>
+<p align="center"><b>👁️ Computer Vision</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
   <img src="https://img.shields.io/badge/YOLOv8-00BFFF?style=flat-square&logoColor=white">
@@ -89,7 +89,16 @@ An ensemble ML system forecasting project budget overruns and timeline delays. T
   <img src="https://img.shields.io/badge/dlib-008000?style=flat-square&logoColor=white">
 </p>
 
-<p align="center"><b>Data & Analytics</b></p>
+<p align="center"><b>🧠 Generative AI</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/ChromaDB-FF6719?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black">
+</p>
+
+<p align="center"><b>📊 Data & Analytics</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
@@ -97,7 +106,7 @@ An ensemble ML system forecasting project budget overruns and timeline delays. T
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=seaborn&logoColor=white">
 </p>
 
-<p align="center"><b>Backend & Infrastructure</b></p>
+<p align="center"><b>🔧 Backend & Infrastructure</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
@@ -137,6 +146,8 @@ JECRC University, Jaipur &nbsp;·&nbsp; `Jul 2024 – Jun 2026`
 **Bachelor of Computer Applications** &nbsp;·&nbsp; `GPA 7.0`  
 University of Rajasthan, Jaipur &nbsp;·&nbsp; `Jul 2020 – Jun 2023`
 
+<br>
+
 ## 🏆 Recognition
 
 - 🥇 **Professional Excellence Recognition** — KvonTech Consultancy Services &nbsp; `2026`
@@ -155,5 +166,7 @@ University of Rajasthan, Jaipur &nbsp;·&nbsp; `Jul 2020 – Jun 2023`
 - 🎓 **RDBMS & Software Engineering** — Infosys Springboard &nbsp; `2024`
 
 <br>
+
+<p align="center"><sub>Open to AI/ML Engineering opportunities &nbsp;·&nbsp; <a href="mailto:sendtoaryansharma@gmail.com">sendtoaryansharma@gmail.com</a></sub></p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:0E2A4A,100:0D1117&height=120&section=footer)
