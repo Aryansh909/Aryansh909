@@ -141,11 +141,11 @@ An ensemble ML system forecasting project budget overruns and timeline delays. T
 
 ## 🎓 Education
 
-**Master of Computer Applications** — Artificial Intelligence & Machine Learning &nbsp;·&nbsp; `GPA 7.7`  
-JECRC University, Jaipur &nbsp;·&nbsp; `Jul 2024 – Jun 2026`
+**Master of Computer Applications** — Artificial Intelligence & Machine Learning  
+JECRC University, Jaipur &nbsp;·&nbsp; `2026`
 
-**Bachelor of Computer Applications** &nbsp;·&nbsp; `GPA 7.0`  
-University of Rajasthan, Jaipur &nbsp;·&nbsp; `Jul 2020 – Jun 2023`
+**Bachelor of Computer Applications**  
+University of Rajasthan, Jaipur &nbsp;·&nbsp; `2023`
 
 <br>
 
