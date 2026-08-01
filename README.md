@@ -11,7 +11,9 @@
 
 <br>
 
-[![skillicons](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,git,linux,postgres,vscode,gcp,github,mongodb,aws&perline=7)](https://github.com/Aryansh909)
+[![skillicons](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker&perline=6)](https://github.com/Aryansh909)
+
+[![skillicons](https://skillicons.dev/icons?i=git,linux,postgres,vscode,gcp,github,mongodb,aws&perline=8)](https://github.com/Aryansh909)
 
 <br>
 
