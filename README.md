@@ -16,11 +16,11 @@
 
 ## About
 
-I build AI systems that work in production, not just in notebooks.
+MCA graduate in AI & ML from JECRC University with industry experience building computer vision systems, predictive analytics pipelines, and backend AI services. I've worked across the full lifecycle of AI projects — model training and evaluation, REST API design, system testing, and deployment — across both academic and professional settings.
 
-I've been building seriously since 2024 — starting from coursework and moving quickly into real deployments. My work spans real-time computer vision pipelines, ensemble regression models, and backend AI services. I don't stop at the model. I think about how data flows in, how predictions get served, what breaks under concurrent load, and how to test it properly without relying on live hardware. Most of my projects started with a vague problem and no obvious architecture — figuring out what to build before building it is something I've gotten comfortable with.
+My recent work includes a real-time multi-model proctoring system built during my ML internship at KvonTech, a crop disease detection and risk forecasting platform, and an ensemble-based project cost prediction system. I write production code: modular, documented, and tested.
 
-Currently exploring LLM fine-tuning and RAG system design as I move further into the generative AI space.
+Currently working on expanding into generative AI — specifically LLM fine-tuning and RAG architectures.
 
 ---
 
@@ -52,29 +52,48 @@ An ensemble ML system that forecasts project budget overruns and timeline delays
 
 ## 🛠️ Tech Stack
 
-**AI & Machine Learning**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+**Machine Learning & Deep Learning**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
+
+**Computer Vision & NLP**
+
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logoColor=white)
+![dlib](https://img.shields.io/badge/dlib-008000?style=flat-square&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=flat-square&logoColor=white)
+
+**Data & Visualization**
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white)
 
-**Backend & Databases**
+**Backend, Databases & Infrastructure**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**Tools & Environment**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 ---
 
@@ -110,10 +129,6 @@ Managed backend operations for [DOLBI](https://play.google.com/store/apps/detail
 - RDBMS & Software Engineering — *Infosys Springboard* (2024)
 
 ---
-
-## 📊 Most Used Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryansh909&layout=compact&theme=github_dark&hide_border=true&langs_count=6&card_width=450)](https://github.com/Aryansh909)
 
 ---
 
