@@ -141,20 +141,17 @@ An ensemble ML system forecasting project budget overruns and timeline delays. T
 
 ## 🎓 Education
 
-**Master of Computer Applications** — Artificial Intelligence & Machine Learning  
-JECRC University, Jaipur &nbsp;·&nbsp; `2026`
-
-**Bachelor of Computer Applications**  
-University of Rajasthan, Jaipur &nbsp;·&nbsp; `2023`
+- 🏫 **Master of Computer Applications (AI & ML)** — JECRC University, Jaipur &nbsp; `2026`
+- 🏫 **Bachelor of Computer Applications** — University of Rajasthan, Jaipur &nbsp; `2023`
 
 <br>
 
 ## 🏆 Recognition
 
 - 🥇 **Professional Excellence Recognition** — KvonTech Consultancy Services &nbsp; `2026`
-- 🏅 **Top 10 Finalist** — Innov8 Hackathon, AI-Powered Precision Agriculture &nbsp; `2024`
-- ☁️ **Google Cloud Arcade** — Skill Boost completion & official rewards &nbsp; `2024`
-- 🤝 **Certificate of Appreciation** — Digital Literacy Workshop (DOLBI) &nbsp; `2024`
+- 🥇 **Top 10 Finalist** — Innov8 Hackathon, AI-Powered Precision Agriculture &nbsp; `2024`
+- 🥇 **Google Cloud Arcade** — Skill Boost completion & official rewards &nbsp; `2024`
+- 🥇 **Certificate of Appreciation** — Digital Literacy Workshop (DOLBI) &nbsp; `2024`
 
 <br>
 
