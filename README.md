@@ -24,7 +24,7 @@
 
 <div align="center">
 
-Engineer who builds AI end-to-end — multi-model inference pipelines, production REST APIs, and code that's tested before it ships.
+AI/ML graduate with hands-on experience shipping computer vision and predictive analytics systems — from model training to REST API deployment.
 
 🛡️ Real-time CV Proctoring &nbsp;&nbsp;·&nbsp;&nbsp; 🌿 Crop Disease Detection &nbsp;&nbsp;·&nbsp;&nbsp; 📈 Ensemble Risk Prediction &nbsp;&nbsp;·&nbsp;&nbsp; 🔭 LLM Fine-tuning & RAG
 
