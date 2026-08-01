@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:0E2A4A,100:0D1117&height=220&section=header&text=Aryan%20Sharma&fontSize=62&fontColor=E6EDF3&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Computer%20Vision%20%7C%20Predictive%20Analytics%20%7C%20Generative%20AI&descSize=16&descAlignY=62&descColor=7EA8BE)
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=540&lines=AI%2FML+Engineer;Computer+Vision+%E2%80%A2+Deep+Learning;Predictive+Analytics;Backend+Engineering;RAG+%26+Local+LLM+Systems)](https://github.com/Aryansh909)
@@ -12,11 +11,11 @@
 
 <br>
 
-[![skillicons](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,postman,docker,git,linux,postgres,vscode,gcp,github&perline=6)](https://github.com/Aryansh909)
+[![skillicons](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,git,linux,postgres,vscode,gcp,github&perline=6)](https://github.com/Aryansh909)
 
 <br>
 
-<sub>📍 Jaipur, India &nbsp;·&nbsp; MCA in AI & ML — JECRC University</sub>
+<sub>📍 Jaipur, India</sub>
 
 </div>
 
@@ -24,7 +23,7 @@
 
 <div align="center">
 
-AI/ML graduate with hands-on experience shipping computer vision and predictive analytics systems — from model training to REST API deployment.
+AI/ML graduate with hands-on experience in computer vision, predictive analytics, and backend AI services — currently building RAG systems and local LLM pipelines with Ollama.
 
 🛡️ Real-time CV Proctoring &nbsp;&nbsp;·&nbsp;&nbsp; 🌿 Crop Disease Detection &nbsp;&nbsp;·&nbsp;&nbsp; 📈 Ensemble Risk Prediction &nbsp;&nbsp;·&nbsp;&nbsp; 🧠 RAG · Ollama · Generative AI
 
