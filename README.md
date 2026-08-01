@@ -32,7 +32,7 @@ AI/ML graduate with hands-on experience shipping computer vision and predictive 
 
 <br>
 
-## Projects
+## 🚀 Projects
 
 ### 🛡️ [ExamShield AI](https://github.com/Aryansh909/Examshield-AI)
 `Computer Vision Proctoring` &nbsp;·&nbsp; 2026
@@ -93,8 +93,8 @@ An ensemble ML system forecasting project budget overruns and timeline delays. T
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white">
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=seaborn&logoColor=white">
 </p>
 
 <p align="center"><b>Backend & Infrastructure</b></p>
@@ -135,11 +135,11 @@ Managed backend operations for [DOLBI](https://play.google.com/store/apps/detail
 
 ## 📜 Certifications
 
-- Neural Networks and Deep Learning &nbsp;·&nbsp; *Samatrix.io* &nbsp;`2026`
-- Machine Learning and Pattern Recognition &nbsp;·&nbsp; *Samatrix.io* &nbsp;`2025`
-- Probabilistic Modeling and Reasoning with Python &nbsp;·&nbsp; *Samatrix.io* &nbsp;`2025`
-- R Programming for Data Science and Analytics &nbsp;·&nbsp; *Samatrix.io* &nbsp;`2024`
-- RDBMS & Software Engineering &nbsp;·&nbsp; *Infosys Springboard* &nbsp;`2024`
+- 🎓 **Neural Networks and Deep Learning** — Samatrix.io &nbsp; `2026`
+- 🎓 **Machine Learning and Pattern Recognition** — Samatrix.io &nbsp; `2025`
+- 🎓 **Probabilistic Modeling and Reasoning with Python** — Samatrix.io &nbsp; `2025`
+- 🎓 **R Programming for Data Science and Analytics** — Samatrix.io &nbsp; `2024`
+- 🎓 **RDBMS & Software Engineering** — Infosys Springboard &nbsp; `2024`
 
 <br>
 
