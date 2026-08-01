@@ -12,7 +12,7 @@
 
 <br>
 
-[![skillicons](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,flask,docker,git,linux,postgres,jupyter,gcp,github&perline=12)](https://github.com/Aryansh909)
+[![skillicons](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,flask,docker,git,linux,postgres,vscode,gcp,github&perline=12)](https://github.com/Aryansh909)
 
 <br>
 
@@ -22,13 +22,18 @@
 
 <br>
 
-## About
+<div align="center">
 
-MCA graduate in AI & ML from JECRC University with industry experience building computer vision systems, predictive analytics pipelines, and backend AI services. I've worked across the full lifecycle of AI projects — model training and evaluation, REST API design, system testing, and deployment — across both academic and professional settings.
+MCA in AI & ML from JECRC University. I work across computer vision, predictive analytics, and backend AI services — from model training to REST API deployment.
 
-My recent work includes a real-time multi-model proctoring system built during my ML internship at KvonTech, a crop disease detection and risk forecasting platform, and an ensemble-based project cost prediction system. I write production code: modular, documented, and tested.
+<br>
 
-Currently working on expanding into generative AI — specifically LLM fine-tuning and RAG architectures.
+| | |
+|:--|:--|
+| 🛡️ Built real-time CV proctoring system at KvonTech | 🌿 Crop disease detection & microclimate risk platform |
+| 📈 Ensemble ML cost & schedule overrun prediction | 🔭 Exploring LLM fine-tuning & RAG architectures |
+
+</div>
 
 <br>
 
