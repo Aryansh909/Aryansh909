@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=540&lines=AI+%2F+ML+Engineer;Computer+Vision+Engineer;Predictive+Analytics+Engineer;Python+%26+Deep+Learning+Engineer;Generative+AI+Engineer)](https://github.com/Aryansh909)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=540&lines=AI%2FML+Engineer;Computer+Vision+%E2%80%A2+Deep+Learning;Predictive+Analytics;Backend+Engineering;Open+Source)](https://github.com/Aryansh909)
 
 <br>
 
@@ -26,7 +26,7 @@
 
 AI/ML graduate with hands-on experience shipping computer vision and predictive analytics systems — from model training to REST API deployment.
 
-🛡️ Real-time CV Proctoring &nbsp;&nbsp;·&nbsp;&nbsp; 🌿 Crop Disease Detection &nbsp;&nbsp;·&nbsp;&nbsp; 📈 Ensemble Risk Prediction &nbsp;&nbsp;·&nbsp;&nbsp; 🔭 LLM Fine-tuning & RAG
+🛡️ Real-time CV Proctoring &nbsp;&nbsp;·&nbsp;&nbsp; 🌿 Crop Disease Detection &nbsp;&nbsp;·&nbsp;&nbsp; 📈 Ensemble Risk Prediction &nbsp;&nbsp;·&nbsp;&nbsp; ⚙️ Backend Engineering & REST APIs
 
 </div>
 
@@ -116,13 +116,26 @@ An ensemble ML system forecasting project budget overruns and timeline delays. T
 
 **Machine Learning Intern** &nbsp;·&nbsp; KvonTech Consultancy Services &nbsp;·&nbsp; `Feb 2026 – Jun 2026`
 
-Built a production-grade proctoring system from scratch — object detection, face recognition, head pose estimation, and gaze tracking unified into a single real-time pipeline. Designed Flask REST APIs, implemented a weighted suspicion scoring system, and reduced false positives through debounce + hysteresis mechanisms. Optimised inference throughput through multithreading and async processing.
+- Built real-time proctoring pipeline running YOLOv8, MediaPipe face landmarks, and dlib face verification in parallel inference threads
+- Designed probabilistic suspicion scoring with configurable weights, debounce filters, and hysteresis signal guards
+- Developed 18+ Flask REST endpoints with SocketIO WebSocket broadcasting for live dashboard telemetry
+- Full pytest suite (28 tests) covering all detection modes, runnable without physical camera hardware
 
 **Program Executive** &nbsp;·&nbsp; Udbhav Vision Foundation &nbsp;·&nbsp; `Aug 2023 – Jul 2024`
 
-Managed backend operations for [DOLBI](https://play.google.com/store/apps/details?id=org.udbhavvision.dolbi) — a live digital accessibility platform for visually impaired students. Engineered 50+ screen-reader-compatible e-books and audiobooks, handled institutional onboarding, and coordinated digital content workflows across CSR partners.
+- Managed backend operations for [DOLBI](https://play.google.com/store/apps/details?id=org.udbhavvision.dolbi), a live digital literacy platform for visually impaired students
+- Engineered 50+ screen-reader-compatible e-books and audiobooks for institutional deployment
+- Coordinated content workflows and onboarding across CSR partner organisations
 
 <br>
+
+## 🎓 Education
+
+**Master of Computer Applications** — Artificial Intelligence & Machine Learning &nbsp;·&nbsp; `GPA 7.7`  
+JECRC University, Jaipur &nbsp;·&nbsp; `Jul 2024 – Jun 2026`
+
+**Bachelor of Computer Applications** &nbsp;·&nbsp; `GPA 7.0`  
+University of Rajasthan, Jaipur &nbsp;·&nbsp; `Jul 2020 – Jun 2023`
 
 ## 🏆 Recognition
 
@@ -140,24 +153,6 @@ Managed backend operations for [DOLBI](https://play.google.com/store/apps/detail
 - 🎓 **Probabilistic Modeling and Reasoning with Python** — Samatrix.io &nbsp; `2025`
 - 🎓 **R Programming for Data Science and Analytics** — Samatrix.io &nbsp; `2024`
 - 🎓 **RDBMS & Software Engineering** — Infosys Springboard &nbsp; `2024`
-
-<br>
-
-<div align="center">
-
-<a href="https://linkedin.com/in/aryansharma72">
-  <img src="https://img.shields.io/badge/LinkedIn-aryansharma72-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-&nbsp;
-<a href="mailto:sendtoaryansharma@gmail.com">
-  <img src="https://img.shields.io/badge/Email-sendtoaryansharma%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-&nbsp;
-<a href="https://github.com/Aryansh909">
-  <img src="https://img.shields.io/badge/GitHub-Aryansh909-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
 
 <br>
 
