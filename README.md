@@ -8,8 +8,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aryansharma72-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryansharma72)&nbsp;
 [![Email](https://img.shields.io/badge/Email-sendtoaryansharma%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sendtoaryansharma@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Aryansh909-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aryansh909)&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=Aryansh909&style=flat-square&color=58A6FF&label=Profile+Views)
+[![GitHub](https://img.shields.io/badge/GitHub-Aryansh909-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aryansh909)
+
+<br>
+
+[![skillicons](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,flask,docker,git,linux,postgres,jupyter,gcp,github&perline=12)](https://github.com/Aryansh909)
+
+<br>
 
 <sub>📍 Jaipur, India &nbsp;·&nbsp; MCA in AI & ML — JECRC University</sub>
 
@@ -29,87 +34,81 @@ Currently working on expanding into generative AI — specifically LLM fine-tuni
 
 ## Projects
 
-<table>
-<tr>
-<td>
-
-#### 🛡️ [ExamShield AI](https://github.com/Aryansh909/Examshield-AI) &nbsp;<sup>Computer Vision Proctoring · 2026</sup>
+### 🛡️ [ExamShield AI](https://github.com/Aryansh909/Examshield-AI)
+`Computer Vision Proctoring` &nbsp;·&nbsp; 2026
 
 Built during my ML internship at KvonTech. The core challenge was running three CV models simultaneously — YOLOv8 object detection, MediaPipe 3D facial mesh, and dlib face verification — without dropping frames. Solved it with independent inference threads and a signal guard layer (debounce + hysteresis) that absorbs transient noise before anything gets flagged. Suspicion scores push live to an admin dashboard over WebSockets. Backed by a Flask REST API and a full pytest suite that runs without a webcam.
 
-<kbd>PyTorch</kbd> <kbd>YOLOv8</kbd> <kbd>MediaPipe</kbd> <kbd>OpenCV</kbd> <kbd>dlib</kbd> <kbd>Flask</kbd> <kbd>Flask-SocketIO</kbd> <kbd>SQLite</kbd>
+<kbd>PyTorch</kbd> &nbsp;<kbd>YOLOv8</kbd> &nbsp;<kbd>MediaPipe</kbd> &nbsp;<kbd>OpenCV</kbd> &nbsp;<kbd>dlib</kbd> &nbsp;<kbd>Flask</kbd> &nbsp;<kbd>Flask-SocketIO</kbd> &nbsp;<kbd>SQLite</kbd>
 
-</td>
-</tr>
-<tr>
-<td>
+---
 
-#### 🌿 [FarmSight AI](https://github.com/Aryansh909/Farmsight-AI) &nbsp;<sup>Crop Disease Detection & Risk Analytics · 2025</sup>
+### 🌿 [FarmSight AI](https://github.com/Aryansh909/Farmsight-AI)
+`Crop Disease Detection & Risk Analytics` &nbsp;·&nbsp; 2025
 
 Two things running in parallel: a MobileNetV2 model classifying leaf diseases from field images, and a microclimate engine computing a Disease Risk Index from humidity, temperature, and rainfall data. Diagnosed conditions map to a treatment database with active ingredients, dosage protocols, and pre-harvest intervals. Actionable output — not just "disease detected" but a clear path forward.
 
-<kbd>PyTorch</kbd> <kbd>MobileNetV2</kbd> <kbd>OpenCV</kbd> <kbd>Flask</kbd> <kbd>Chart.js</kbd> <kbd>SQLite</kbd>
+<kbd>PyTorch</kbd> &nbsp;<kbd>MobileNetV2</kbd> &nbsp;<kbd>OpenCV</kbd> &nbsp;<kbd>Flask</kbd> &nbsp;<kbd>Chart.js</kbd> &nbsp;<kbd>SQLite</kbd>
 
-</td>
-</tr>
-<tr>
-<td>
+---
 
-#### 📈 [Project Risk Intelligence](https://github.com/Aryansh909/project-risk-intelligence) &nbsp;<sup>Cost & Schedule Overrun Prediction · 2025</sup>
+### 📈 [Project Risk Intelligence](https://github.com/Aryansh909/project-risk-intelligence)
+`Cost & Schedule Overrun Prediction` &nbsp;·&nbsp; 2025
 
 An ensemble ML system forecasting project budget overruns and timeline delays. The models (XGBoost + LightGBM) were straightforward — the interesting part was the feature engineering: baseline variance, contractor performance scores, site complexity indices, seasonal disruption factors. Predictions include feature importance breakdowns and scenario simulation, making it a planning tool rather than just a risk score.
 
-<kbd>Python</kbd> <kbd>XGBoost</kbd> <kbd>LightGBM</kbd> <kbd>Scikit-Learn</kbd> <kbd>Flask</kbd> <kbd>SQLite</kbd>
-
-</td>
-</tr>
-</table>
+<kbd>Python</kbd> &nbsp;<kbd>XGBoost</kbd> &nbsp;<kbd>LightGBM</kbd> &nbsp;<kbd>Scikit-Learn</kbd> &nbsp;<kbd>Flask</kbd> &nbsp;<kbd>SQLite</kbd>
 
 <br>
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<p align="center"><b>Languages</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+<p align="center"><b>Machine Learning & AI</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black">
+</p>
 
-**Machine Learning & AI**
+<p align="center"><b>Computer Vision</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/YOLOv8-00BFFF?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/dlib-008000?style=flat-square&logoColor=white">
+</p>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
+<p align="center"><b>Data & Analytics</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white">
+</p>
 
-**Computer Vision**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00BFFF?style=flat-square&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logoColor=white)
-![dlib](https://img.shields.io/badge/dlib-008000?style=flat-square&logoColor=white)
-
-**Data & Analytics**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white)
-
-**Backend & Infrastructure**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+<p align="center"><b>Backend & Infrastructure</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
+</p>
 
 <br>
 
