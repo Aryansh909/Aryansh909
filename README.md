@@ -126,12 +126,10 @@ Managed backend operations for [DOLBI](https://play.google.com/store/apps/detail
 
 ## 🏆 Recognition
 
-| Award | Year |
-|:--|:--|
-| 🥇 Professional Excellence Recognition — KvonTech Consultancy Services | 2026 |
-| 🏅 Top 10 Finalist — Innov8 Hackathon (AI-Powered Precision Agriculture) | 2024 |
-| ☁️ Google Cloud Arcade — Skill Boost completion & official rewards | 2024 |
-| 🤝 Certificate of Appreciation — Digital Literacy Workshop (DOLBI) | 2024 |
+- 🥇 **Professional Excellence Recognition** — KvonTech Consultancy Services &nbsp; `2026`
+- 🏅 **Top 10 Finalist** — Innov8 Hackathon, AI-Powered Precision Agriculture &nbsp; `2024`
+- ☁️ **Google Cloud Arcade** — Skill Boost completion & official rewards &nbsp; `2024`
+- 🤝 **Certificate of Appreciation** — Digital Literacy Workshop (DOLBI) &nbsp; `2024`
 
 <br>
 
